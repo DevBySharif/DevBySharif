@@ -1,3 +1,6 @@
+
+![cover](./github-header-image%20(6).png)
+
 # 💫 About Me:
 🔭 I’m currently working on Mastering the art of web development.<br>🌱 I’m currently learning Next.js<br>🤝 I’m looking for help with Perfecting responsive design principles for a seamless user experience.<br>👯 I’m looking to collaborate on Exciting web development projects to enhance my skills and contribute to open-source.<br>💬 Ask me about Any coding challenges or share your thoughts on the latest trends in web development.<br>⚡ Fun fact I enjoy creating visually appealing and interactive websites, always experimenting with new design elements and functionalities.
 
@@ -9,7 +12,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevBySharif&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=DevBySharif&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevBySharif&theme=material-palenight&hide_border=false" alt="GitHub Streak" />
   <br />
