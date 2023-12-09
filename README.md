@@ -1,4 +1,4 @@
-![cover](<./github-header-image%20(6).png>)
+![cover](</assets/Sharif Obaidullah.gif>)
 
 # 💫 About Me:
 
