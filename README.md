@@ -16,4 +16,4 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevBySharif&theme=material-palenight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBySharif&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)
-<a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
+
