@@ -14,6 +14,6 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevBySharif&theme=material-palenight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevBySharif&theme=ambient-gradient)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBySharif&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)
 
