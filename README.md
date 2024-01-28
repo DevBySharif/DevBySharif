@@ -16,4 +16,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevBySharif&theme=ambient-gradient)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBySharif&theme=ambient-gradient&hide_border=true&include_all_commits=true&count_private=true)
+![Codewars](https://github.r2v.ch/codewars?user=DevBySharif)
 
