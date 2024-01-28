@@ -16,3 +16,5 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevBySharif&theme=material-palenight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBySharif&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Hyun+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Hyun Welcome to my Profile! animated typed out">
+<img  src="assests/borderseperator.gif">
