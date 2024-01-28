@@ -14,8 +14,16 @@
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DevBySharif&theme=ambient-gradient)](https://git.io/streak-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevBySharif&theme=radical&show_icons=true)
+<div align="center">
+    <h2>GitHub Streak</h2>
+    <img src="https://streak-stats.demolab.com?user=DevBySharif&theme=ambient-gradient" alt="GitHub Streak">
+</div>
+
+<!-- GitHub Stats -->
+<div align="center">
+    <h2>GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=DevBySharif&theme=radical&show_icons=true" alt="GitHub Stats">
+</div>
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevBySharif&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
