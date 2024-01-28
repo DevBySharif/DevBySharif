@@ -15,13 +15,13 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-    <h2>GitHub Streak</h2>
+    
     <img src="https://streak-stats.demolab.com?user=DevBySharif&theme=ambient-gradient" alt="GitHub Streak">
 </div>
 
 <!-- GitHub Stats -->
 <div align="center">
-    <h2>GitHub Stats</h2>
+    
     <img src="https://github-readme-stats.vercel.app/api?username=DevBySharif&theme=radical&show_icons=true" alt="GitHub Stats">
 </div>
 
