@@ -16,7 +16,9 @@
 
 <div align='center'>
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevBySharif&theme=ambient-gradient)](https://git.io/streak-stats)
+</div>
 
+<div align='center'>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevBySharif&theme=radical&show_icons=true)
 </div>
 
