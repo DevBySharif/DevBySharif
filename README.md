@@ -14,15 +14,10 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
-    
-    <img src="https://streak-stats.demolab.com?user=DevBySharif&theme=ambient-gradient" alt="GitHub Streak">
-</div>
+<div align='center'>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevBySharif&theme=ambient-gradient)](https://git.io/streak-stats)
 
-<!-- GitHub Stats -->
-<div align="center">
-    
-    <img src="https://github-readme-stats.vercel.app/api?username=DevBySharif&theme=radical&show_icons=true" alt="GitHub Stats">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevBySharif&theme=radical&show_icons=true)
 </div>
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevBySharif&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
